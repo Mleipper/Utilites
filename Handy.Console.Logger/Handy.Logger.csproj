@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Handy.Logger</PackageId>
+    <Authors>Michael Leipper</Authors>
+    <Company></Company>
+    <Description>A Simple Ilogger to be used in console applications.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Logger, Ilogger, simpleLogger</PackageTags>
+    <RepositoryUrl>https://github.com/Mleipper/Utilites</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
